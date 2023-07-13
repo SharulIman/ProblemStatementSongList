@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SongList</string>
+    <string name="titletxt">Title</string>
+    <string name="singertxt">Singer(s)</string>
+    <string name="yeartxt">Year</string>
+    <string name="startxt">Star(s)</string>
+    <string name="onestar">1</string>
+    <string name="twostar">2</string>
+    <string name="threestar">3</string>
+    <string name="fourstar">4</string>
+    <string name="fivestar">5</string>
+
+    <string name="insert">INSERT</string>
+    <string name="showlist">SHOW LIST</string>
+    <string name="update">UPDATE</string>
+    <string name="delete">DELETE</string>
+    <string name="cancel">CANCEL</string>
+
+
+
+
+</resources>
